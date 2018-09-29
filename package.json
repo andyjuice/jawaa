@@ -1,7 +1,7 @@
 {
   "name": "jawaa",
   "version": "1.0.0",
-  "main": "jawaa.js",
+  "main": "server.js",
   "repository": "https://github.com/ndjuice/jawaa.git",
   "author": "Andy Ju <andy.ju@duke.edu>",
   "license": "MIT",
